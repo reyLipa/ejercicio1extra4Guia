@@ -51,7 +51,7 @@ public class Ejercicio1extra4Guia {
 //        System.out.println("yate  "+a3.getPrecioFinal()+"pesos");
 //        System.out.println(((int) ChronoUnit.DAYS.between(a3.getFechaAlquiler(), a3.getFechaDevolucion())));
 //        System.out.println(b4.modulo());
-
+/* HOLA BUENAS TARDES */
         
     }
     
