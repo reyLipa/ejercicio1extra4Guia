@@ -14,12 +14,7 @@ public class Jonatan {
     private String marca;
     private int modelo;
     
-    public Computadora(int precio, String marca, int modelo){
-     this.precio=precio;
-     this.marca=marca;
-     this.modelo=modelo;
-    }
-    public Computadora(){}
+   
 
     public int getPrecio() {
         return precio;
