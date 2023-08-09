@@ -38,6 +38,7 @@ public class Ejercicio1extra4Guia {
         Yate yate=new Yate(3, 100, "12asd", 5, 1990);
         Alquiler a1=new Alquiler("pepe", "1234567", LocalDate.of(2000,04,02), LocalDate.of(2000,05,02), "de lado", b1);
         Alquiler a2=new Alquiler("luna", "12345", LocalDate.of(2000,04,02), LocalDate.of(2000,05,12), "con ancla", yate);
+         Alquiler a3=new Alquiler("Enzo", "1252345", LocalDate.of(2000,10,02), LocalDate.of(2000,10,02), "de lado", yate);
         System.out.println(b1.modulo());
        yate.modulo();
        a2.precioFinal();
